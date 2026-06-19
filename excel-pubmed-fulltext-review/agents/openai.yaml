@@ -1,6 +1,0 @@
-interface:
-  display_name: "Excel PubMed Fulltext Review"
-  short_description: "Excel-to-PubMed PDF review pipeline"
-  default_prompt: "Use $excel-pubmed-fulltext-review to download PubMed-linked papers from my Excel file, fill missing PDFs institutionally, and summarize them into Excel."
-policy:
-  allow_implicit_invocation: true
